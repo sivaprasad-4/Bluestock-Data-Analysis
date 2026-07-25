@@ -1,4 +1,4 @@
-# Bluestock Data Analyst Internship
+# Internship project
 
 Project repository for internship tasks.
 
